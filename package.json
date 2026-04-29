@@ -13,7 +13,7 @@
     "dojo": "^1.10.4",
     "ecstatic": "^1.4.0",
     "fs-extra": "~0.26.4",
-    "istanbul": "0.4.2",
+    "istanbul": "0.4.5",
     "jquery": "^2.2.0",
     "jscs": "^2.8.0",
     "lodash": "^3.10.1",
