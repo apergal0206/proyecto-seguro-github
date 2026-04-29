@@ -5,7 +5,7 @@
   "private": true,
   "devDependencies": {
     "async": "^1.5.2",
-    "chalk": "^1.1.1",
+    "chalk": "^5.6.2",
     "codecov.io": "~0.1.6",
     "coveralls": "^2.11.6",
     "curl-amd": "~0.8.12",
