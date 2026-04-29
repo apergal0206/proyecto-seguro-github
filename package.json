@@ -24,7 +24,7 @@
     "requirejs": "^2.1.22",
     "sauce-tunnel": "2.3.0",
     "uglify-js": "2.6.1",
-    "webpack": "^1.12.11"
+    "webpack": "^5.106.2"
   },
   "scripts": {
     "build": "node lib/main/build.js && node lib/fp/build.js",
